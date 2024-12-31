@@ -1,0 +1,4 @@
+office365.runtime.auth.user_credential   > interact with 365,module from library Office365-REST-Python-Client , class user_credentials to insure we have access
+user name & pass or if MFA is enabled in 365
+
+office365.sharepoint.client_context > make the connection and fetch data
